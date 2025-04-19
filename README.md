@@ -1,4 +1,4 @@
-# ArpitJain_102203499_Parameter-Optimization-of-SVM
+# ShivaneKapoor_102203191_Parameter-Optimization-of-SVM
 
 # 🔍 SVM Hyperparameter Tuning on Letter Recognition Data
 
